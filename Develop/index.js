@@ -16,13 +16,13 @@ const questions= () => {
 
         {
         type: "input", 
-        name:"GitHub",
+        name:"questions",
         Message:"GitHub Username", 
     }, 
 
     {
         type: "input",
-        Name:" Name of Project", 
+        Name:" Title", 
         message: "Name Your project"
     }, 
     {
